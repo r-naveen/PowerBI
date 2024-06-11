@@ -1,1 +1,1 @@
-## EDA & Dashboard creation using PowerBI
+## EDA & Data visualization Projects using PowerBI 📊
